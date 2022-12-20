@@ -13,4 +13,5 @@
 | ./secure-pin-tumbler.py | 1234567 | 5 | 4 | 8 | kwikset_5.txt |
 
 `./secure-pin-tumbler.py 0123456789 5 7 20 schlage_5.txt`
+
 `./secure-pin-tumbler.py 1234567 5 4 8 kwikset_5.txt`
